@@ -10,8 +10,10 @@ MySQL	: 8.0.18
 
 Provided instructions are followed except request parameters validation.
 
+1. Extract the trackingnumbergenerator.tgz file.
+2. Then cd into the file
 Just run the maven builder
-./mvnw spring-boot:run
+3. ./mvnw spring-boot:run
 
 Results
 -------
